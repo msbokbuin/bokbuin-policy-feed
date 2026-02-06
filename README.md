@@ -97,3 +97,6 @@ npm start
 ## 📄 라이선스
 
 MIT License
+
+## Deployment
+This project is deployed on Vercel.
